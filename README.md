@@ -25,7 +25,7 @@ npm test
 
 ## Variables
 
-The following variables can be used to custom the app:
+The following environment variables can be used to custom the app:
 
 Variable | Requirement | Description | Default value
 --- | --- | ---  | ---
