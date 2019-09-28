@@ -4,12 +4,24 @@
 
 ## Getting started
 
+Install the dependencies:
+```
+npm install
+```
+
 You can start the app with:
 ```
 npm start
 ```
 
 The application will be available on http://localhost:5000 by default.
+
+## Tests
+
+You can run tests with:
+```
+npm test
+```
 
 ## Variables
 
