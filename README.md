@@ -1,3 +1,5 @@
+> This project has moved to https://gitlab.com/ynote_hk/workshop-express-example.
+
 # Express app example
 
 > This application is used as example for my personnal workshops.
